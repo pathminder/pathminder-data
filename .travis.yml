@@ -16,5 +16,5 @@ after_success: |
     npm install -g firebase-tools
     firebase use default
     firebase deploy --only rules
-    firebase database:set / ./build/pathminder.json
+    firebase database:set -y / ./build/pathminder.json
   fi
