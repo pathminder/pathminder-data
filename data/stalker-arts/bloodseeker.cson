@@ -1,0 +1,8 @@
+name: "bloodseeker"
+type: "Ex"
+sources: [
+  "Path of War: Expanded"
+]
+text: '''
+  The stalker gains the scent special ability.
+'''

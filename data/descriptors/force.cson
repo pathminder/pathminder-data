@@ -1,0 +1,7 @@
+name: "force"
+sources: [
+  "Pathfinder Roleplaying Game Ultimate Magic"
+]
+text: '''
+  Spells with the force descriptor create or manipulate magical force. Force spells affect incorporeal creatures normally (as if they were corporeal creatures).
+'''

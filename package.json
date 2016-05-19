@@ -1,0 +1,28 @@
+{
+  "name": "pathminder-data",
+  "version": "1.0.0",
+  "description": "A collection of Pathfinder content intended to produce characters of more-or-less equal power levels.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pathminder/pathminder-data.git"
+  },
+  "author": "Drumanagh Wilpole <drumanagh@alienspacebats.com>",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/pathminder/pathminder-data/issues"
+  },
+  "homepage": "https://github.com/pathminder/pathminder-data#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-beautify": "^2.0.0",
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "^2.6.0",
+    "gulp-cson": "^0.4.0",
+    "gulp-insert": "^0.5.0",
+    "gulp-jsoncombine": "^1.0.3",
+    "gulp-mongodb-data": "^1.0.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.3",
+    "merge2": "^1.0.2"
+  }
+}

@@ -1,0 +1,11 @@
+name: "enhanced range"
+anti_tags: [
+  "Augmented Blade"
+  "Psychic Armory"
+]
+sources: [
+  "Ultimate Psionics"
+]
+text: '''
+  The soulknife's range increment when throwing his mind blade in any form doubles.
+'''

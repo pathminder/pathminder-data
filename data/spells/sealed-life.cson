@@ -1,0 +1,27 @@
+name: "*sealed life*"
+sources: [
+  "Pathfinder Roleplaying Game Occult Adventures"
+]
+school: "abjuration"
+spell_lists: [
+  {
+    name: "spiritualist"
+    level: 3
+  }
+  {
+    name: "medium"
+    level: 2
+  }
+]
+casting_time: "1 standard action"
+components: [
+  "S"
+]
+range: "close"
+target: "one creature"
+duration: "1 round/level"
+saving_throw: "none"
+spell_resistance: "yes"
+text: '''
+  You seal the life force within the target, preventing it from sharing its vitality with others. Affected creatures can't transfer damage to or from another, such as through *shield other*, a spiritualist's life bond, or a summoner's life link. Effects such as *vampiric touch* that steal vitality from others deal damage normally, but provide no benefits.
+'''

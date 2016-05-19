@@ -1,0 +1,19 @@
+name: "*call weapon*"
+sources: [
+  "Pathfinder Campaign Setting: Inner Sea Magic*"
+]
+pi_text_changed: true
+school: "transmutation"
+spell_lists: [
+  "bard 1"
+  "magus 1"
+  "ranger 1"
+]
+casting_time: "1 swift action"
+components: [
+  "V"
+  "S"
+]
+range: "30 feet"
+target: "one melee weapon wielded by an ally"
+duration: "instantaneous"

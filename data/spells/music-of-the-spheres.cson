@@ -1,0 +1,31 @@
+name: "*music of the spheres*"
+sources: [
+  "Pathfinder Campaign Setting: Inner Sea Magic*"
+]
+pi_text_changed: true
+school: "conjuration"
+subschool: "healing"
+descriptors: [
+  "sonic"
+]
+spell_lists: [
+  {
+    name: "bard"
+    level: 5
+  }
+  {
+    name: "cleric"
+    level: 6
+  }
+]
+casting_time: "1 standard action"
+components: [
+  "V"
+  "S"
+  "M (a stick of incense treated with special balms)"
+]
+range: "20 ft."
+area: "20-ft.-radius spherical emanation, centered on you"
+duration: "concentration, up to 1 round per level"
+saving_throw: "none"
+spell_resistance: "yes (harmless)"

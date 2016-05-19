@@ -1,0 +1,19 @@
+name: "Knowledge (history)"
+sources: [
+  "Pathfinder Roleplaying Game Core Rulebook"
+  "Pathfinder Roleplaying Game Pathfinder Unchained"
+]
+tags: [
+  "Knowledge"
+]
+ability_score: "Int"
+trained_only: true
+text: '''
+  Knowledge (history) covers wars, colonies, migrations, and founding of cities.
+  
+  | Knowledge (history) task                       | DC |
+  |:-----------------------------------------------|:--:|
+  | Know recent or historically significant event  | 10 |
+  | Determine approximate date of a specific event | 15 |
+  | Know obscure or ancient historical event       | 20 |
+'''

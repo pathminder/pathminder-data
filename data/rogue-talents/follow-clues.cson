@@ -1,0 +1,11 @@
+name: "follow clues"
+sources: [
+  "Pathfinder Roleplaying Game Pathfinder Unchained"
+]
+type: "Ex"
+tags: [
+  "Unchained"
+]
+text: '''
+  A rogue with this talent can use Perception to follow tracks as per the Survival skill.
+'''

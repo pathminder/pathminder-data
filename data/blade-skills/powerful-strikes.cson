@@ -1,0 +1,7 @@
+name: "powerful strikes"
+sources: [
+  "Ultimate Psionics"
+]
+text: '''
+  The soulknife's psychic strike deals an additional 1d8 damage.
+'''

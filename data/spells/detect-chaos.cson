@@ -1,0 +1,19 @@
+name: "*detect chaos*"
+sources: [
+  "Pathfinder Roleplaying Game Core Rulebook"
+]
+school: "divination"
+spell_lists: [
+  {
+    name: "spiritualist"
+    level: 1
+  }
+  {
+    name: "cleric"
+    level: 1
+  }
+]
+text: '''
+  This spell functions like [*detect evil*](/spells/detect-evil/), except that it detects the auras of chaotic creatures, clerics of chaotic deities, chaotic spells, and chaotic magic items, and you are vulnerable to an overwhelming chaotic aura if you are lawful.
+  
+'''

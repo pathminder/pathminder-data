@@ -1,0 +1,16 @@
+name: "*communal mask dweomer*"
+spell_lists: [
+  {
+    name: "occultist"
+    level: 2
+  }
+  {
+    name: "witch"
+    level: 2
+  }
+]
+target: "creatures or objects touched"
+text: '''
+  This spell functions like [*mask dweomer*](/spells/mask-dweomer/), except you divide the duration in 1-day increments among the creatures or objects touched.
+  
+'''

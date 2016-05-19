@@ -1,0 +1,46 @@
+name: "*communal resist energy*"
+sources: [
+  "Pathfinder Roleplaying Game Ultimate Combat"
+]
+spell_lists: [
+  {
+    name: "occultist"
+    level: 3
+  }
+  {
+    name: "alchemist"
+    level: 3
+  }
+  {
+    name: "cleric"
+    level: 3
+  }
+  {
+    name: "druid"
+    level: 3
+  }
+  {
+    name: "inquisitor"
+    level: 3
+  }
+  {
+    name: "paladin"
+    level: 3
+  }
+  {
+    name: "ranger"
+    level: 3
+  }
+  {
+    name: "sorcerer/wizard"
+    level: 3
+  }
+  {
+    name: "summoner"
+    level: 3
+  }
+]
+target: "creatures touched"
+text: '''
+  This spell functions like [*resist energy*](/spells/resist-energy/), except you divide the duration in 10-minute intervals among the creatures touched.
+'''
