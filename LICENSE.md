@@ -10,7 +10,7 @@ The text of the Open Gaming License itself is not Open Game Content. Instruction
 
 **Designation of Product Identity:** All company names and logos; all artwork, backgrounds, and logos; all trade dress, and graphic design elements. Any mechanics or other items which have previously been designated as Open Game Content or are in the public domain are not included in this declaration.
 
-**Declaration of Open Game Content:** All 5srd content not designated as Product Identity is declared Open Game Content as described in Section 1(d) of the Open Game License Version 1.0a.
+**Declaration of Open Game Content:** All `pathminder-data` content and code not designated as Product Identity is declared Open Game Content as described in Section 1(d) of the Open Game License Version 1.0a.
 
 ## OPEN GAME LICENSE Version 1.0a
 
