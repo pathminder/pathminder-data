@@ -54,7 +54,7 @@ class_features: [
     '''
   }
   {
-    name: "race"
+    name: "rage"
     type: "Ex"
     levels: [
       1
