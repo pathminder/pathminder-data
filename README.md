@@ -13,4 +13,4 @@ For example:
 
 ## Disclaimer
 
-Data formats subject to change as I fine-tune data structures for use with [the new Pathminder website](/pathminder/pathminder-web/).
+Data formats subject to change as I fine-tune data structures for use with [the new Pathminder website](https://github.com/pathminder/pathminder-web/).
